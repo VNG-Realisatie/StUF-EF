@@ -10,7 +10,7 @@ StUF eFormulieren (StUF-EF) is een op StUF gebaseerde berichtenstandaard voor de
 Hier kunt u terecht voor de [nieuwste discussies m.b.t. StUF-EF](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF-EF%20%2F%20GEMMA%20e-Formulieren).
 
 ## StUF-EF 3.15
-Het bij <span style="color:red">GEMMA e-formulieren< release 1.5/span> behorende Sectormodel StUF-EF 3.15 (de technische berichtdefinities) is in november 2013 gepubliceerd.
+Het bij <span style="color:red">GEMMA e-formulieren< release 1.5</span> behorende Sectormodel StUF-EF 3.15 (de technische berichtdefinities) is in november 2013 gepubliceerd.
 
 ## StUF-EF 3.12
-Het bij <span style="color:red">GEMMA e-formulieren release 1.4/span> behorende Sectormodel StUF-EF 3.12 (de technische berichtdefinities) is in april 2013 gepubliceerd.
+Het bij <span style="color:red">GEMMA e-formulieren release 1.4</span> behorende Sectormodel StUF-EF 3.12 (de technische berichtdefinities) is in april 2013 gepubliceerd.
