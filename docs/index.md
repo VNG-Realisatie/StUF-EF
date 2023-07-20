@@ -5,8 +5,8 @@ title: StUF-EF
 # StUF-EF
 
 **Actuele versie:** 3.15  
-**Beheerder**  VNG Realisatie<br/>
-**Afkorting**  StUF-EF
+**Beheerder:**  VNG Realisatie<br/>
+**Afkorting:**  StUF-EF
 
 StUF eFormulieren (StUF-EF) is een op StUF gebaseerde berichtenstandaard voor de uitwisseling van de gegevens welke met <span style="color:red">GEMMA e-formulieren</span> verstuurd kunnen worden. De standaard gaat er vanuit dat er een (internet) applicatie is welke invulbare formulieren aanbiedt aan een burger. De burger kan dit formulier invullen, de ingevulde gegevens worden vervolgens via StUF-berichten gecommuniceerd met achterliggende applicaties. Deze StUF-berichten moeten voldoen aan de standaard.
 
