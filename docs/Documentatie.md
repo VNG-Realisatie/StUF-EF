@@ -5,15 +5,15 @@ folder_files:
   - title: Ef0315
     path: documenten/Ef0315.zip
     group: 315
-    versie: 1.5
+    versie: 3.15
     status: Onbekend
-    omschrijving: 
+    omschrijving: Behoort bij eFormulieren 1.5
   - title: Ef0312
     path: documenten/Ef0312.zip
     group: 312
-    versie: 1.4
+    versie: 3.12
     status: Onbekend
-    omschrijving: 
+    omschrijving: Behoort bij eFormulieren 1.4
 ---
 # Documentatie
 
