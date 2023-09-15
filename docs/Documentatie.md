@@ -2,18 +2,20 @@
 layout: page-with-side-nav
 title: Documentatie StUF-EF
 folder_files:
-  - title: Ef0315
+  - title: Ef0315 (zip)
     path: documenten/Ef0315.zip
     group: 315
     versie: 3.15
     status: Onbekend
     omschrijving: Behoort bij eFormulieren 1.5
-  - title: Ef0312
+    datum: 20131119
+  - title: Ef0312 (zip)
     path: documenten/Ef0312.zip
     group: 312
     versie: 3.12
     status: Onbekend
     omschrijving: Behoort bij eFormulieren 1.4
+    datum: 20130717
 ---
 # Documentatie
 
@@ -22,7 +24,7 @@ folder_files:
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -37,6 +39,7 @@ folder_files:
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
@@ -48,7 +51,7 @@ folder_files:
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -63,6 +66,7 @@ folder_files:
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
