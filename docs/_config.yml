@@ -16,6 +16,8 @@ nav:
         path: /
       - title: Documentatie  
         path: /Documentatie
+      - title: Test  
+        path: /Test
 #      - title: Werkgroep  
 #        path: /Werkgroep 
 
